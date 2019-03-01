@@ -1,4 +1,4 @@
-<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script> 
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 
 ## Pagina de programacion lineal
 
@@ -11,7 +11,7 @@ En esta pagina pondre las cosas que estamos haciendo en el curso de programacion
 [Pagina de python](https://www.python.org/)
 [Github](ww.github.com/)
 
-##problemas
+###problemas
 
 Maximizar \(z=x_{1}+x_{2}\)
 sujeto a \(x_1\geq 3\)
