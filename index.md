@@ -10,3 +10,8 @@ En esta pagina pondre las cosas que estamos haciendo en el curso de programacion
 
 [Pagina de python](https://www.python.org/)
 [Github](ww.github.com/)
+
+##problemas
+
+Maximizar \(z=x_{1}+x_{2}\)
+sujeto a \(x_1\geq 3\)
